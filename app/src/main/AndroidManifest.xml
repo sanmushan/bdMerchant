@@ -1,0 +1,431 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gzdb.warehouse">
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- SDK1.5需要android.permission.GET_TASKS权限判断本程序是否为当前运行的应用? -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 来电消音 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 访问网络状态的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <!-- 访问WIFI网络状态的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 读写存储卡的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 读取电话状态的权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 添加可以向外拨打电话的权限 -->
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE"></uses-permission>
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <!-- Optional for location -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 访问精确位置的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.hardware.usb.accessory" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature android:name="android.hardware.usb.host" />
+    <!-- 极光相关 -->
+    <uses-permission android:name="com.gzdb.warehouse.permission.JPUSH_MESSAGE" />
+    <permission
+        android:name="com.gzdb.warehouse.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" />
+
+
+    <application
+        android:name="com.gzdb.warehouse.App"
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.gzdb.StartActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.gzdb.LoginActivity"
+            android:label="用户登录"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:label="主界面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".order.OrderSearchActivity"
+            android:label="请输入订单号进行搜索"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ware.WareSearchItemActivity"
+            android:label="请输入商品名称进行搜索"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ware.SupplyTypeActivity"
+            android:label="商品分类"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ware.WareShopCartActivity"
+            android:label="购物车"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".order.OrderDetailActivity"
+            android:label="订单详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".order.SendItemActivity"
+            android:label="发货信息"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.zwarehouse.ZWarehouseActivity"
+            android:label="主仓 主界面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.widget.ScanActivity"
+            android:label="扫一扫"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.warehouse.me.SetPrintActivity"
+            android:label="设置打印设备"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.warehouse.me.ResetPasswordActivity"
+            android:label="密码重置"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.warehouse.me.UpdateLoginPasswordActivity"
+            android:label="修改登录密码"
+            android:screenOrientation="portrait" />
+
+        <!-- 采购员 相关UI -->
+        <activity
+            android:name="com.gzdb.buyer.BuyerActivity"
+            android:label="采购员主页"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.buyer.WarehouseListActivity"
+            android:label="仓库列表"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.buyer.BuyerShopCartActivity"
+            android:label="采购购物车"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.buyer.BuyerOrderSubmitActivity"
+            android:label="订单付款"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.buyer.BuyerOrderDetailActivity"
+            android:label="订单详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.buyer.BuyerWareItemSearchActivity"
+            android:label="请输入商品名称进行搜索"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.buyer.BuyerItemSearchActivity"
+            android:label="请输入商品名称进行搜索"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.buyer.BuyerOrderSearchActivity"
+            android:label="输入商家名,订单号搜索"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".order.ShouItemActivity"
+            android:label="收货信息"
+            android:screenOrientation="portrait" />
+        <!-- 开拓 -->
+        <activity
+            android:name="com.gzdb.developing.DevelopingListActivity"
+            android:label="开拓供应商"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.ContractActivity"
+            android:label="添加供应商合同"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.DevelopingAddActivity"
+            android:label="添加供应商"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.NextDevelopingActivity"
+            android:label="开拓供应商"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.IDActivity"
+            android:label="添加供应商"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.PermitActivity"
+            android:label="用户登录"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.TypeActivity"
+            android:label="添加供应商"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.MapBActivity"
+            android:label="地址地图"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.DevelopingChangeActivity"
+            android:label="修改开拓"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.IDChangeActivity"
+            android:label="修改开拓"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.PermitChangeActivity"
+            android:label="修改开拓"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.NextChangeDevelopingActivity"
+            android:label="修改开拓"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.ContractChangeActivity"
+            android:label="修改开拓"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gzdb.developing.RegisterPassportActivity"
+            android:label="注册通行证"
+            android:screenOrientation="portrait" />
+        <!--1号拣货员-->
+        <activity
+            android:name="com.gzdb.picking.PickingMainActivity"
+            android:label="1号拣货员"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.gzdb.picking.StockMobileActivity"
+            android:label="1号拣货员"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.gzdb.picking.SearchPickingActivity"
+            android:label="1号拣货员"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.gzdb.picking.AddWarehouseLocationActivity"
+            android:label="绑定库位"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.gzdb.picking.StockManagerActivity"
+            android:label="盘点"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.gzdb.picking.PickGroupActivity"
+            android:label="拣货组"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.gzdb.picking.PickPersonActivity"
+            android:label="拣货员"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.gzdb.picking.PickPersonEditActivity"
+            android:label="编辑拣货员"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.gzdb.picking.PickPersonAddActivity"
+            android:label="添加拣货员"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+
+
+        <activity
+            android:name="com.gzdb.picking.PickGroupEditActivity"
+            android:label="编辑拣货员"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.gzdb.picking.PickGroupAddActivity"
+            android:label="添加拣货员"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+
+        <!-- 主仓 -->
+        <activity
+            android:name="com.gzdb.zwarehouse.ZWareSearchItemActivity"
+            android:label="请输入商品名称进行搜索"
+            android:screenOrientation="portrait" />
+        <!--图片缩放-->
+        <activity
+            android:name="com.gzdb.zoom.SpaceImageDetailActivity"
+            android:label="@string/app_name" />
+
+
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <!-- 极光推送key -->
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="b37a8a25de6bf833fb19fdf3" />
+        <!-- Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.gzdb.warehouse" />
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.gzdb.gprinter.service.DeviceBootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <!-- Required  SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false"></service>
+        <!-- Required SDK 核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true">
+            <intent-filter android:priority="1000">
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />
+                <!-- Required  显示通知栏 -->
+                <category android:name="com.gzdb.warehouse" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="com.gzdb.warehouse" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required SDK核心功能 -->
+        <receiver android:name="cn.jpush.android.service.AlarmReceiver" />
+
+        <!-- User defined.    用户自定义的广播接收器 -->
+        <receiver
+            android:name="com.gzdb.utils.JpushReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" />
+                <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.UNREGISTRATION" />
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" />
+                <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" />
+                <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" />
+                <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" />
+                <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="com.gzdb.warehouse" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.gprinter.service.GpPrintService"
+            android:enabled="true"
+            android:exported="true"
+            android:label="GpPrintService">
+            <intent-filter>
+                <action android:name="com.gprinter.aidl.GpPrintService" />
+            </intent-filter>
+        </service>
+        <service android:name="com.gprinter.service.AllService"></service>
+        <!-- #######################################################  百度内容  -->
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="VikGk7zcxHqG3uf9pr68cwPS3CIGDQSO" />
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote">
+            <!--<intent-filter>-->
+            <!--<action android:name="com.baidu.location.service_v2.2"></action>-->
+            <!--</intent-filter>-->
+        </service>
+        <!-- ........................................................  百度内容  -->
+    </application>
+
+</manifest>

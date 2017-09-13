@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_child"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <!-- 采购员 仓库 商品 adapter ui -->
+
+    <RelativeLayout
+        android:id="@+id/product_item_fl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp">
+
+        <com.zhumg.anlib.widget.RoundedImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/item_pic"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_centerInParent="true"
+            android:scaleType="centerCrop"
+            app:border_color="#FFffffff"
+            app:border_width="1dp"
+            app:corner_radius="5dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp" />
+
+        <ImageView
+            android:id="@+id/item_pic_no"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_centerInParent="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/sale_over"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txt_itemName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/product_item_fl"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        android:layout_marginRight="5dp"
+        android:text="商品名称商品名称商品名称商品名称商品名称" />
+
+    <TextView
+        android:id="@+id/txt_stock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_itemName"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/product_item_fl"
+        android:text="库存：0"
+        android:textColor="@color/font_9"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/txt_unin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_stock"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/product_item_fl"
+        android:text="采购中：0"
+        android:textColor="@color/font_9"
+        android:textSize="14sp" />
+
+
+    <TextView
+        android:id="@+id/txt_state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="库存不足"
+        android:textColor="@color/red"
+        android:textSize="14sp"
+        android:singleLine="false"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_alignTop="@+id/txt_stock" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line_d4"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/txt_unin" />
+
+</RelativeLayout>

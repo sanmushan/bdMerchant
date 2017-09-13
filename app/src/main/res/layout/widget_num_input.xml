@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f1f1f1"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/wni_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:padding="10dp"
+            android:text="取消"
+            android:textColor="@color/red"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/wni_num"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical|center_horizontal"
+            android:padding="10dp"
+            android:text=""
+            android:visibility="invisible"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/wni_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:padding="10dp"
+            android:text="确定"
+            android:textColor="@color/red"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:stretchColumns="0,1,2" >
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/input_bu_num1"
+                style="@style/my_self_code_style"
+                android:text="1" />
+
+            <Button
+                android:id="@+id/input_bu_num2"
+                style="@style/my_self_code_style"
+                android:text="2" />
+
+            <Button
+                android:id="@+id/input_bu_num3"
+                style="@style/my_self_code_style"
+                android:text="3" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/input_bu_num4"
+                style="@style/my_self_code_style"
+                android:text="4" />
+
+            <Button
+                android:id="@+id/input_bu_num5"
+                style="@style/my_self_code_style"
+                android:text="5" />
+
+            <Button
+                android:id="@+id/input_bu_num6"
+                style="@style/my_self_code_style"
+                android:text="6" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/input_bu_num7"
+                style="@style/my_self_code_style"
+                android:text="7" />
+
+            <Button
+                android:id="@+id/input_bu_num8"
+                style="@style/my_self_code_style"
+                android:text="8" />
+
+            <Button
+                android:id="@+id/input_bu_num9"
+                style="@style/my_self_code_style"
+                android:text="9" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/input_bu_dot"
+                android:text="" />
+
+            <Button
+                android:id="@+id/input_bu_num0"
+                style="@style/my_self_code_style"
+                android:text="0" />
+
+            <RelativeLayout
+                android:id="@+id/input_bu_add"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/delete_image" />
+
+            </RelativeLayout>
+
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

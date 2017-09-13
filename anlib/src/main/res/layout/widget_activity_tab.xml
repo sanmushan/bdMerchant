@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_activity_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true" >
+
+    <TextView
+        android:background="@color/blue"
+        android:id="@+id/txtTest"
+        android:textColor="@color/white"
+        android:text="测试版"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/wta_viewpager"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+    </android.support.v4.view.ViewPager>
+
+    <View android:id="@+id/wta_h" style="@style/view_horizontal" />
+
+    <com.zhumg.anlib.widget.tabb.IconButtonGroupView
+        android:id="@+id/wta_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom">
+    </com.zhumg.anlib.widget.tabb.IconButtonGroupView>
+
+
+</LinearLayout>

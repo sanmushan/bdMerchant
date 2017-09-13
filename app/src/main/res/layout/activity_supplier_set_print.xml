@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/bg_f2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true">
+
+    <include layout="@layout/widget_titlebar_base" />
+
+    <View
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line_d2" />
+
+    <EditText
+        android:background="@color/white"
+        android:id="@+id/et_value"
+        android:textColor="@color/font_3"
+        android:textSize="16sp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:hint="输入打印设备"
+        android:layout_width="match_parent"
+        android:layout_height="48dp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line_d2" />
+
+    <TextView
+        android:id="@+id/btn_ok"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_btn_height"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="49dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:background="@drawable/btn_blue"
+        android:text="确定"
+        android:textColor="@color/white"
+        android:textSize="16dp" />
+    
+</LinearLayout>

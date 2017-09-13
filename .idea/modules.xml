@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/anlib/anlib.iml" filepath="$PROJECT_DIR$/anlib/anlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdMerchant.iml" filepath="$PROJECT_DIR$/bdMerchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youmenlib/youmenlib.iml" filepath="$PROJECT_DIR$/youmenlib/youmenlib.iml" />
+    </modules>
+  </component>
+</project>
