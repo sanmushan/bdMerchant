@@ -19,5 +19,11 @@ public class DateUtil {
         String timeString=f.format(date);
         return timeString;
     }
+    public static String getToDateUtilLong(long time){
+        Date date = new Date(time);
+        java.text.SimpleDateFormat f = new java.text.SimpleDateFormat("yyyy/MM/dd hh:mm");
+        String timestring = f.format(date);
+        return  timestring;
+    }
 
 }

@@ -20,6 +20,7 @@ import com.gzdb.utils.UpdateManager;
 import com.gzdb.utils.Utils;
 import com.gzdb.warehouse.Cache;
 import com.gzdb.warehouse.R;
+import com.gzdb.warehouse.me.LogisticsHandoverActivity;
 import com.gzdb.warehouse.me.ResetPasswordActivity;
 import com.gzdb.warehouse.me.SetPrintActivity;
 import com.gzdb.warehouse.me.UpdateLoginPasswordActivity;
@@ -63,6 +64,10 @@ public class MeFragment extends AfinalFragment implements View.OnClickListener {
 
     @Bind(R.id.up_login_pass)
     View up_login_pass;
+
+    //物流交接
+    @Bind(R.id.logistics)
+    View logistics;
 
     @Bind(R.id.print_ll)
     View print_ll;
@@ -124,6 +129,7 @@ public class MeFragment extends AfinalFragment implements View.OnClickListener {
         tv_back.setOnClickListener(this);
         ll_group.setOnClickListener(this);
         ll_pick.setOnClickListener(this);
+        logistics.setOnClickListener(this);
 
         tv_ver.setText("v" + String.valueOf(ApkUtils.getVersionCode(this.getActivity())));
 
@@ -232,6 +238,8 @@ public class MeFragment extends AfinalFragment implements View.OnClickListener {
             ActivityManager.startActivity(getActivity(), PickGroupActivity.class);
         }else  if(id==R.id.ll_pick){
             ActivityManager.startActivity(getActivity(), PickPersonActivity.class);
+        }else if(id == R.id.logistics){//todo -------------------------------------------------------------
+            ActivityManager.startActivity(getActivity(), LogisticsHandoverActivity.class);
         }
     }
 

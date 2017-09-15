@@ -10,525 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="690e42d9-ea16-4eed-8a7b-f1d4d68a22bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/libs/gson-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/ic_pull_refresh_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/ic_pull_refresh_loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/arm64-v8a/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/arm64-v8a/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/arm64-v8a/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/arm64-v8a/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/arm64-v8a/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/arm64-v8a/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/arm64-v8a/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/arm64-v8a/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi-v7a/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi-v7a/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi-v7a/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi-v7a/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi-v7a/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi-v7a/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi-v7a/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi-v7a/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/libJoinImage.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/armeabi/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/mips/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/mips64/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86_64/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86_64/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86_64/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86_64/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86_64/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86_64/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86_64/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jniLibs/x86_64/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/BaiduLBS_Android.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/gprintersdkv22.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jcc-bate-0.7.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jpush-android-2.1.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/oss-0.3.0-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/oss-0.3.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/xUtils-2.6.14.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/zxing.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libgpequipment.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libgpequipment.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libJoinImage.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libgpequipment.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/mips/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/mips64/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/libBaiduMapSDK_base_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/libBaiduMapSDK_cloud_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/libBaiduMapSDK_map_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/libBaiduMapSDK_radar_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/libBaiduMapSDK_search_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/libBaiduMapSDK_util_v4_0_0.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/libjpush217.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/liblocSDK7.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/raw/beep.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/ActivityManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/AfinalActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/AfinalActivityHttpLife.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/AfinalFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/SystemBarTintManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/http/Callback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/http/Http.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/http/HttpCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/ApkUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/DeviceUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/DialogUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/GlobalDataParam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/JsonUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/PermissionUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/SpUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/StringUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/ToastUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/utils/ViewUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/AdapterClickListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/AdapterModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/AfinalAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/FragmentAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/GridViewWithHeaderAndFooter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/NoScrollGridView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/ProgressBarCircular.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/RemoveListWidget.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/RoundedDrawable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/RoundedImageView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/TagsLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/BaseAnimator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/BaseBanner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/BaseIndicaorBanner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/FixedSpeedScroller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/LoopPagerAdapterWrapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/LoopViewPager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/NoAnimExist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/RotateEnter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/ZoomInEnter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/transform/DepthTransformer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/transform/FadeSlideTransformer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/transform/FlowTransformer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/transform/RotateDownTransformer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/transform/RotateUpTransformer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/banner/transform/ZoomOutSlideTransformer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/bar/BaseTitleBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/bar/SearchTitleBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/dialog/InputClickListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/dialog/InputDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/dialog/TipClickListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/dialog/TipDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/mvc/LoadingView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/mvc/LoadmoreView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/mvc/RefreshLoad.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/mvc/RefreshLoadListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/tabb/IconButtonGroupView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/tabb/IconButtonView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/tabb/SelectedView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/tabb/SelectedViewGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/tabb/TabViewPager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/java/com/zhumg/anlib/widget/tabb/TabViewPagerSelectListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/anim/alpha_action.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/bg_progressbar_loading.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/bg_pull_refresh_loading.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_blue.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_border_blue.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_border_grey.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_border_orange.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_border_white.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_grey.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_orange.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_red.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/btn_white.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/rrect_black.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/drawable/rrect_white.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/dragrefresh_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_activity_tab.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_btn_left_icon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_btn_top_icon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_dialog_icon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_dialog_input.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_dialog_loading.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_dialog_tip.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_titlebar_base.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_titlebar_search.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_view_loading.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/layout/widget_view_loadmore.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/values/banner_style.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/values/dimen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anlib/src/main/res/values/theme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/db_warehouse.jks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/interval.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/StartActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/base/BaseGenericAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/base/BaseListActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/base/BaseListFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerActivityEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerItemAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerItemFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerItemSearchActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerOrderAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerOrderDetailActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerOrderFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerOrderFragmentEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerOrderListFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerOrderListFragmentEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerOrderSearchActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerOrderSubmitActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerShopCart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerShopCartActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerWareItemFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerWareItemSearchActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerWarehItemAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerWarehouseFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/WarehouseListActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/AttestationVoBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/ContractActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/ContractBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/ContractChangeActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/DevelopingAddActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/DevelopingBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/DevelopingChangeActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/DevelopingListActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/IDActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/IDChangeActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/IDInfoBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/MapBActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/NextChangeDevelopingActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/NextDevelopingActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/PermitActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/PermitChangeActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/RegisterPassportActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/SearchAddressActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/TypeActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/adapter/BankTypeAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/adapter/DevelopingListAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/adapter/DevelopingTypeAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/adapter/TypeAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/developing/adapter/TypeChildAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/gprinter/service/DeviceBootReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/overlayutil/BikingRouteOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/overlayutil/BusLineOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/overlayutil/DrivingRouteOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/overlayutil/IndoorPoiOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/overlayutil/OverlayManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/overlayutil/PoiOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/overlayutil/TransitRouteOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/overlayutil/WalkingRouteOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/AddWarehouseLocationActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/PickGroupActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/PickGroupAddActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/PickGroupEditActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/PickPersonActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/PickPersonAddActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/PickPersonEditActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/PickingListFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/PickingMainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/SearchPickingActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/StockManagerActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/StockMobileActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/WarehouseBoardActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/adapter/PickGroupAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/adapter/PickPersonAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/adapter/PickPersonAddAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/adapter/PickingAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/adapter/ProductAdpater.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/adapter/SearchPickingAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/picking/adapter/StockManagerAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Api.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/ApiRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/BackOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Bank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/CartWarehouseIds.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/ConsumerOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/ConsumerOrderItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Currency.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/DetailsBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/DevelopingType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/DownOrderAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/EditAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/HomePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/HomePageBanners.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/HomePageRecommendItemTypes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/ItemStock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/ItemType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/NumPickingBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/OrderDetail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Passport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/PickGroupBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/SupplierProperties.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/SupplyItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/VersionInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Warehouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/BeyondControllTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/ClientTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/CurrencyTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/DeviceTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/OrderPaymentEnter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/OrderRoleTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/OrderStateEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/OrderStatusEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/OrderTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/PassportRoleTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/PaymentTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/RoleTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/SmsCodeTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/StatusEnterEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/StatusPickingEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/UpdatePasswordTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/enums/VersionTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/showPick.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/Bimp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/Const.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/CreateQRImage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/DateUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/GlobalData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/ImageItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/ImageLoaders.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/ImageUploadUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/JpushAliasUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/JpushReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/ProductSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/ProductSorts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/PushDispatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/PushObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/TelNumMatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/UpdateManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/baidu/BaiduAddressActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/baidu/BaiduAddressAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/baidu/BaiduLocationManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/baidu/LocationAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/Cache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/MainActivityEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/BackAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/BackProductAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/ItemAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/OrderAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/SendItemAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/SupplyItemTypeAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/WarehouseAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/back/BackProductActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/back/BackWareHouseProductActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/back/RealBackProductActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/BackListFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/BackOrderActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/MeFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/MeFragmentEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/OrderFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/WareItemFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/WareOrderFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/WareOrderFragmentEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/ResetPasswordActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/SetPrintActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/UpdateLoginPasswordActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/order/OrderDetailActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/order/OrderListFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/order/OrderSearchActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/order/SendItemActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/order/ShouItemActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/order/ShouItemAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/ware/BackWareShopCart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/ware/SupplyTypeActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/ware/WareSearchItemActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/ware/WareShopCart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/ware/WareShopCartActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/BuyCountInputDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/CustomView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/InputPayPasswordDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/NumInputView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/ProgressBarCircularIndetermininate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/ScanActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/ScrollerListView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/ScrollerListViewFooter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/ScrollerListViewHead.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/TitleViewPager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/Tools.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/WheelView/OnWheelChangedListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/WheelView/OnWheelScrollListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/WheelView/WheelAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/WheelView/WheelView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/camera/AutoFocusCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/camera/CameraConfigurationManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/camera/CameraManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/camera/FlashlightManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/camera/PlanarYUVLuminanceSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/camera/PreviewCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/decoding/CaptureActivityHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/decoding/DecodeFormatManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/decoding/DecodeHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/decoding/DecodeThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/decoding/FinishListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/decoding/InactivityTimer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/decoding/Intents.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/view/ViewfinderResultPointCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/widget/zxing/view/ViewfinderView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/zoom/SmoothImageView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/zoom/SpaceImageDetailActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/zoom/SquareCenterImageView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/zwarehouse/ZWareItemAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/zwarehouse/ZWareSearchItemActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/zwarehouse/ZWarehouseActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/zwarehouse/ZWarehouseItemFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/zwarehouse/ZWarehouseOrderFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_back_product.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_back_warehouse_product.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_baidu_address.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_buyer_order_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_buyer_order_submit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_contract.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_developing_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_id.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_item_type.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_mains.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_map_b.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pick_group_add.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pick_group_edit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pick_person.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pick_person_add.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pick_person_edit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_picking.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_real_back_product.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register_assport.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_reset_password.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_scan.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search_item_cart.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_send_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_shou_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_start.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_stock_manager.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_supplier_set_print.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_type.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_update_login_password.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_warehouse_board.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_warehouse_cart.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_warehouse_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activty_permit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_back_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_buyer_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_group_items.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_order_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_packing_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_product_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_search_packing_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_send_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_stock_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_supply_headerbutton.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_supply_type.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_warehouse.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_zware_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/base_ptr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_buycount_input.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_inputpassword.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_back_order.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_buyer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_buyer_order.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_me.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_order.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ptr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_wareh_order.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_warehouse.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_developing.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_map.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/items_type.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/items_type_child.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/packing_child.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/picking_num.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/picking_search_child.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/show_dialog_register.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/showdialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_baidu_address.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_buyer_order_submit_items.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_listview_footer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_listview_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_num_input.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_supply_buy_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/xml/device_filter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdMerchant.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/warehouse_test_key.jks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youmenlib/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youmenlib/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youmenlib/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youmenlib/src/androidTest/java/com/zhumg/youmenlib/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youmenlib/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youmenlib/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youmenlib/src/test/java/com/zhumg/youmenlib/ExampleUnitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsDetailsListBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsListBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsListInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/LogisticsListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/LogisticsListDetailAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/DeliveryOrderDetailsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/HandoverDetailActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/LogisticsHandoverActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_delivery_order_details.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_handover_detail.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_logistics_handover.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_d_order.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_handover.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_logistics_details.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_dialog_logistics.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Api.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Api.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/DateUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/DateUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/MeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/MeFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_me.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_me.xml" />
     </list>
     <ignored path="bdMerchant.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -562,11 +64,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BuyerActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerActivity.java">
+      <file leaf-file-name="LogisticsListInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsListInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogisticsDetailsListBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsDetailsListBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogisticsListBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsListBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Api.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Api.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="220" column="0" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogisticsListDetailAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/LogisticsListDetailAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeliveryOrderDetailsActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/DeliveryOrderDetailsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HandoverDetailActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/HandoverDetailActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogisticsHandoverActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/LogisticsHandoverActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogisticsListAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/LogisticsListAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/DateUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -3919,6 +3511,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/LogisticsHandoverActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_me.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/MeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsListBean.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Api.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/LogisticsListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/DateUtil.java" />
       </list>
     </option>
   </component>
@@ -3953,6 +3552,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3961,14 +3564,290 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gzdb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gzdb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="warehouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gzdb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="warehouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gzdb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="warehouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bdMerchant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gzdb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="warehouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3979,6 +3858,15 @@
     <property name="android.sdk.path" value="D:/AndroidSDK/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.2.2" />
+    <property name="SearchEverywhereHistoryKey" value="DateUtil&#9;PSI&#9;JAVA://com.gzdb.utils.DateUtil&#10;fragment.x&#9;FILE&#9;file://D:/QMDownload/bdMerchant/bdMerchant/app/src/main/res/layout/fragment_me.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\QMDownload\bdMerchant\bdMerchant\app\src\main\java\com\gzdb\warehouse\adapter" />
+      <recent name="D:\QMDownload\bdMerchant\bdMerchant\app\src\main\java\com\gzdb\response" />
+      <recent name="D:\QMDownload\bdMerchant\bdMerchant\app\src\main\res\layout" />
+      <recent name="D:\QMDownload\bdMerchant\bdMerchant\app\src\main\java\com\gzdb\warehouse\me" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -4292,6 +4180,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="690e42d9-ea16-4eed-8a7b-f1d4d68a22bb" name="Default" comment="" />
@@ -4307,12 +4198,19 @@
       <option name="project" value="LOCAL" />
       <updated>1505292155673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="。。。。。。。。。。。">
+      <created>1505292288798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505292288798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -4321,13 +4219,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -4373,8 +4272,128 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/buyer/BuyerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_delivery_order_details.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_me.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="500" column="15" selection-start-line="500" selection-start-column="15" selection-end-line="500" selection-end-column="15" />
+          <folding>
+            <element signature="e#7189#7207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/main/MeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="267" column="0" selection-start-line="267" selection-start-column="0" selection-end-line="267" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/response/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="220" column="0" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/LogisticsListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/utils/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsListBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsDetailsListBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/response/LogisticsListInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/adapter/LogisticsListDetailAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/DeliveryOrderDetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/HandoverDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/gzdb/warehouse/me/LogisticsHandoverActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding />
         </state>
       </provider>

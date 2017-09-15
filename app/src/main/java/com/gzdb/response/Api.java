@@ -198,6 +198,7 @@ public class Api {
     public static final String SUPPLIER_PROPERTIES = BasesupplychainRemoteURL() + "warehouse/getSupplierProperties";//设置
     public static final String ORDER_RECEIPTIMG = BasesupplychainRemoteURL() + "order/createOrderReceiptImg";//添加收货单签名照记录
     public static final String FLAG_ORDER_STATE  = BasesupplychainRemoteURL() + "order/confirmPurchaseOrder";//标记订单完成状态
+    public static final String LOGISTICS_LIST_URL  = BaselogisticsRemoteURL() + "logisticsController/getTransferBatchByWarehouse";//物流交接任务列表
     //////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 

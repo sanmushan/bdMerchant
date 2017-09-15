@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <!-- 交接任务列表item -->
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:background="#F2F2F2"
+        android:padding="@dimen/common_10"
+        android:id="@+id/txt_time"
+        android:textSize="15dp"
+        android:textColor="#999999"
+        android:text="2017年12月12日"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_marginTop="@dimen/common_10"
+        android:layout_marginLeft="@dimen/common_10"
+        android:layout_marginRight="@dimen/common_10"
+        android:layout_below="@+id/txt_time"
+        android:id="@+id/ll"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/txt_orderNumber"
+            android:textSize="15dp"
+            android:gravity="left"
+            android:layout_weight="1"
+            android:textColor="#333333"
+            android:text="20170909122030"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txt_state"
+            android:textSize="@dimen/common_18"
+            android:gravity="right"
+            android:layout_marginLeft="5dp"
+            android:textColor="#999999"
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/lll"
+        android:layout_marginLeft="@dimen/common_10"
+        android:layout_marginRight="@dimen/common_10"
+        android:layout_marginTop="@dimen/common_10"
+        android:layout_below="@+id/ll"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/txt_total_orders"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:textColor="#333333"
+            android:text="总订单数：3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/txt_totalNum"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:textColor="#333333"
+            android:text="总件数：44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txt_receivedNum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="已交接数：10"
+            android:textColor="@color/orange"
+            android:textSize="15dp" />
+    </LinearLayout>
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/lll"
+        android:background="#b9b6b6"
+        android:layout_width="wrap_content"
+        android:layout_height="0.5dp"/>
+</RelativeLayout>
+
+</LinearLayout>
